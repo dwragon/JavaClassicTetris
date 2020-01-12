@@ -129,7 +129,7 @@ public class GameTetris {
                     if (shape[y][x]==1) figure.add(new Block(x+this.x,y+this.y));
         }
         boolean isTouchGround(){
-            for(Block block : figure) if(mine[block.getY()+1][block.getX()] > 0)return true;
+            for(Block block : figure) if(mine[block.getY()-1][block.getX()] < 0)return false;
             return  false;
         }
         boolean isCrossGround(){
