@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8607c949-2645-4757-8bd2-5e9b7c9e8687" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/GameTetris_jar/GameTetris.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/GameTetris_jar/GameTetris.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/GameTetris/GameTetris$Figure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameTetris/GameTetris$Figure.class" afterDir="false" />
@@ -93,29 +91,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1323" y="100" width="479" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578589973120" />
-    <state x="300" y="274" key="FileChooserDialogImpl" timestamp="1578593917747">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="213" y="193" width="428" height="484" key="FileChooserDialogImpl" timestamp="1579026914291">
+      <screen x="0" y="0" width="1366" height="731" />
     </state>
+    <state x="213" y="193" width="428" height="484" key="FileChooserDialogImpl/0.0.1366.731@0.0.1366.731" timestamp="1579026914291" />
     <state x="300" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578593917747" />
-    <state width="1320" height="2" key="GridCell.Tab.0.bottom" timestamp="1578834689069">
+    <state width="1320" height="90" key="GridCell.Tab.0.bottom" timestamp="1578911157742">
       <screen x="0" y="0" width="1366" height="731" />
     </state>
-    <state width="1320" height="2" key="GridCell.Tab.0.bottom/0.0.1366.731@0.0.1366.731" timestamp="1578834689069" />
+    <state width="1320" height="90" key="GridCell.Tab.0.bottom/0.0.1366.731@0.0.1366.731" timestamp="1578911157742" />
     <state width="1876" height="107" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578593529161" />
-    <state width="1320" height="2" key="GridCell.Tab.0.center" timestamp="1578834689067">
+    <state width="1320" height="90" key="GridCell.Tab.0.center" timestamp="1578911157742">
       <screen x="0" y="0" width="1366" height="731" />
     </state>
-    <state width="1320" height="2" key="GridCell.Tab.0.center/0.0.1366.731@0.0.1366.731" timestamp="1578834689067" />
+    <state width="1320" height="90" key="GridCell.Tab.0.center/0.0.1366.731@0.0.1366.731" timestamp="1578911157742" />
     <state width="1876" height="107" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578593529161" />
-    <state width="1320" height="2" key="GridCell.Tab.0.left" timestamp="1578834689067">
+    <state width="1320" height="90" key="GridCell.Tab.0.left" timestamp="1578911157741">
       <screen x="0" y="0" width="1366" height="731" />
     </state>
-    <state width="1320" height="2" key="GridCell.Tab.0.left/0.0.1366.731@0.0.1366.731" timestamp="1578834689067" />
+    <state width="1320" height="90" key="GridCell.Tab.0.left/0.0.1366.731@0.0.1366.731" timestamp="1578911157741" />
     <state width="1876" height="107" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578593529160" />
-    <state width="1320" height="2" key="GridCell.Tab.0.right" timestamp="1578834689068">
+    <state width="1320" height="90" key="GridCell.Tab.0.right" timestamp="1578911157742">
       <screen x="0" y="0" width="1366" height="731" />
     </state>
-    <state width="1320" height="2" key="GridCell.Tab.0.right/0.0.1366.731@0.0.1366.731" timestamp="1578834689068" />
+    <state width="1320" height="90" key="GridCell.Tab.0.right/0.0.1366.731@0.0.1366.731" timestamp="1578911157742" />
     <state width="1876" height="107" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578593529161" />
     <state width="1320" height="2" key="GridCell.Tab.1.bottom" timestamp="1578834689070">
       <screen x="0" y="0" width="1366" height="731" />
@@ -145,11 +144,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578593971813" />
-    <state x="459" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1578833795649">
+    <state x="459" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1579026848095">
       <screen x="0" y="0" width="1366" height="731" />
     </state>
-    <state x="459" y="242" key="com.intellij.ide.util.TipDialog/0.0.1366.731@0.0.1366.731" timestamp="1578833795649" />
+    <state x="459" y="242" key="com.intellij.ide.util.TipDialog/0.0.1366.731@0.0.1366.731" timestamp="1579026848095" />
     <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578580591603" />
+    <state x="58" y="0" width="1243" height="731" key="new project wizard" timestamp="1579026935208">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="58" y="0" width="1243" height="731" key="new project wizard/0.0.1366.731@0.0.1366.731" timestamp="1579026935208" />
     <state x="1263" y="145" key="refactoring.ChangeSignatureDialog" timestamp="1578587081312">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -160,7 +163,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GameTetris.java</url>
-          <line>144</line>
+          <line>158</line>
           <properties class="GameTetris.Figure" method="drop">
             <option name="EMULATED" value="true" />
           </properties>
